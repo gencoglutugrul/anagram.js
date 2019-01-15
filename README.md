@@ -1,2 +1,2 @@
 # anagram.js
-Simple javascript function for check two text is anagram.
+anagram.js is simple javascript class to checking if two string anagram or not.
