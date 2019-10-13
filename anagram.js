@@ -1,7 +1,7 @@
  class anagramjs{
     constructor(a,b,alphabet="abcçdefgğhıijklmnoöprsştuüvyz"){
-        this._text1=a;
-        this._text2=b;
+        this._text1=a.toLowerCase();
+        this._text2=b.toLowerCase();
         this._alphabet=alphabet;
     }
     
